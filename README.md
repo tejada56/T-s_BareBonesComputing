@@ -2,7 +2,7 @@
 Welcome to my GitHub!
 Here I will showcase personal projects where I do proof of concept and apply new technologies I may be curious about
 # Virtualization Lab
-	In my virtualization lab I use 3 intel nucs clustered together using a managed switch, router and firewall
+	In my virtualization lab I use 3 Intel NUC's clustered together using a Netgear managed switch, GLI.NET router and a Zyxel firewall
    # Hardware
      Within the NUC's I have 2 Intel Core i7's (i7-8559U CPU @ 2.70GHz & i7-8650U CPU @ 1.90GHz) and 1 Intel Core i5 (i5-7260U CPU @ 2.20GHz)
      Pictured above are the NUC's used within my lab. They are 7th and 8th generation.
