@@ -62,6 +62,7 @@ The excitement I had upon finding this little router is unreal! This router is t
 ![IMG_0296](https://user-images.githubusercontent.com/67407192/116059292-87fe4e80-a635-11eb-86a4-dd598ccf368c.JPG) ![IMG_0297](https://user-images.githubusercontent.com/67407192/116059294-8896e500-a635-11eb-904b-97dc6741f0d5.JPG) ![IMG_0295](https://user-images.githubusercontent.com/67407192/116059290-8765b800-a635-11eb-9407-c071b23b815f.JPG) 
 
 
-## <h3>The Firewall to filter it all
- *
+## <h3>The Zyxel Firewall
+ *![IMG_0294](https://user-images.githubusercontent.com/67407192/116069778-a453b880-a640-11eb-8e02-56c4471c70db.JPG)
+
 
