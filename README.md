@@ -12,9 +12,19 @@ Having researched a variety of computer and network devices that would be able t
    ![IMG_0285](https://user-images.githubusercontent.com/67407192/115975104-c6e9b280-a516-11eb-9f60-9742850b5acc.JPG)
 
  * NUC7i5BNH
+  *  Processor
+  *  RAM
+  *  Storage
+  
  * NUC8i7BEH
+  *  Processor
+  *  RAM
+  *  Storage
+  
  * NUC7i7DNHE
-
+  *  Processor
+  *  RAM
+  *  Storage
 
 
 
