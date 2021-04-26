@@ -12,19 +12,19 @@ Having researched a variety of computer and network devices that would be able t
    ![IMG_0285](https://user-images.githubusercontent.com/67407192/115975104-c6e9b280-a516-11eb-9f60-9742850b5acc.JPG)
 
  * NUC7i5BNH
-   *  Processor
-   *  RAM
-   *  Storage
+   *  Processor:  i5-7260U CPU @ 2.20GHz
+   *  RAM: 32gb
+   *  Storage: 500gb M2 SSD & 1TB HDD
   
  * NUC8i7BEH
-   *  Processor
-   *  RAM
-   *  Storage
+   *  Processor:  i7-8559U CPU @ 2.70GHz
+   *  RAM: 64gb
+   *  Storage:  500gb M2 SSD & 500 SSD Sata
   
  * NUC7i7DNHE
-   *  Processor
-   *  RAM
-   *  Storage
+   *  Processor:  i7-8650U CPU @ 1.90GHz
+   *  RAM: 32gb
+   *  Storage:  500gb M2 SSD & 500 SSD Sata
 
 
 
