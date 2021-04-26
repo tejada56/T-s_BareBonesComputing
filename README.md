@@ -33,6 +33,7 @@ Having researched a variety of computer and network devices that would be able t
    *  https://kacangisnuts.com/2019/04/yes-intel-nuc-8i5beh-accepts-64-gb-ram/
    *  https://cloerner.github.io/posts/64gb_intel_nuc7i3/
 
-## <h3>Netgear Switch (GS108PEv3)
+## <h3>Managed Switch
+ * GS108PEv3
 
 
