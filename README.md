@@ -49,12 +49,16 @@ Pictured below is the switch stacked on top of a Firewall
 ![IMG_0294](https://user-images.githubusercontent.com/67407192/116057101-4ff60c00-a633-11eb-88e0-dbe94f065865.JPG)
 
 ## <h3>The Holy Grail of Routers!
- The excitement I had upon finding this little router is unreal! This great little router is the Perfect tavel size and I've actually used it on many trips and to support my home network. Whether your looking for a wireless access point to connect to your modem, extend your current wireless signal or to establish a WWAN (Wireless Wide Area Network) like I do in my lab. This device does it all! I will only be covering the greater features of this device in relation to the lab and my personal use of it but I highly encourage you to check it out on their site. The amount of features and what it is capable of is great for the size and cost.
+The excitement I had upon finding this little router is unreal! This little router is the Perfect tavel size and I've actually used it on many trips and to support my home network. Whether your looking for a wireless access point to connect to your modem, add an access point to your WIFI or create a WWAN (Wireless Wide Area Network) like I do in my lab. This device does it all! I will only be covering a small amount of features this device is capable of. I highly encourage you to check it out on their site.
+ 
 * GL-AR750S-Ext
-  *  asd
-  *   asd
-  *  asdf
+  *  DualBand WIFI (2.4ghz 300Mbps & 5ghz 433Mbps)
+  *  SD Card Support (up to 128gb)
+  *  VPN Capabilities
+  *  3 Gigabit Ports
+  *  OpenWRT
      
 
 ![IMG_0296](https://user-images.githubusercontent.com/67407192/116059292-87fe4e80-a635-11eb-86a4-dd598ccf368c.JPG) ![IMG_0297](https://user-images.githubusercontent.com/67407192/116059294-8896e500-a635-11eb-904b-97dc6741f0d5.JPG) ![IMG_0295](https://user-images.githubusercontent.com/67407192/116059290-8765b800-a635-11eb-9407-c071b23b815f.JPG) 
+https://www.gl-inet.com/products/gl-ar750s/
 
