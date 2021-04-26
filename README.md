@@ -43,6 +43,7 @@ Having researched a variety of computer and network devices that would be able t
   *  Port Management
   *  VLAN tagging
   *  Mirroring
+
 Pictured below is a picture of the switch stacked on top of my firewall
   
 ![IMG_0294](https://user-images.githubusercontent.com/67407192/116057101-4ff60c00-a633-11eb-88e0-dbe94f065865.JPG)
