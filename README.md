@@ -6,7 +6,7 @@ Having researched a variety of computer and network devices that would be able t
  
 
 ## <h3>Intel NUC's
-  *  The NUC's having many generations and configurations over the last few years, I went for the 7th and 8th generation. Each one being capable of 32gb of RAM, an M.2 SSD Slot, available with multiple processors (i3, i5, i7) and a 2.5 SSD/HDD Bay.
+  *  Intel NUC's (Next Unit of Computing) have been available for many years and come in different configurations. As they are released they identify a new generation in their product line (to compare, similiar to apple and iphones), I went for the 7th and 8th generation. Each one being capable of 32gb of RAM, an M.2 SSD Slot, available with multiple processors (i3, i5, i7) and a 2.5 SSD/HDD Bay.
 * Below you will find a picture and specifications of 3 NUC's I will be using to carry throughout my lab
 
 
@@ -62,4 +62,7 @@ The excitement I had upon finding this little router is unreal! This router is t
 
 ![IMG_0296](https://user-images.githubusercontent.com/67407192/116059292-87fe4e80-a635-11eb-86a4-dd598ccf368c.JPG) ![IMG_0297](https://user-images.githubusercontent.com/67407192/116059294-8896e500-a635-11eb-904b-97dc6741f0d5.JPG) ![IMG_0295](https://user-images.githubusercontent.com/67407192/116059290-8765b800-a635-11eb-9407-c071b23b815f.JPG) 
 
+
+## <h3>The Firewall to filter it all
+ *
 
