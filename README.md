@@ -27,4 +27,5 @@ Having researched a variety of computer and network devices that would be able t
    *  RAM: 32gb
    *  Storage:  500gb M2 SSD & 500 SSD Sata
 
-    ##  <h5> (Earlier I stated the NUCS being capable of 32gb RAM. 8th Gen NUC's suprisingly support 64gb. Reading multiple articles online, I was happy to test and confirm this was true!)
+    ##  <h5> Reading multiple articles online, I found come claiming the 8th generation NUC's actually support 64gb of RAM instead of the advertised 32gb. I decided to test this out and astoundigly found this to be true. I list a few of the articles down below
+   *  asdffdsa
