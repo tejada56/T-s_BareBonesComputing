@@ -1,5 +1,5 @@
-#<h1> T-s_BareBonesComputing
-Welcome to my GitHub!
+#T-s_BareBonesComputing
+	Welcome to my GitHub!
 Here I will showcase personal projects where I do proof of concept and apply new technologies I may be curious about
 ##<h2> Virtualization Lab
 	Going into the planning for this lab I wanted to find devices that were relatively small, versatile, energy efficient and didnt require a lot of space.
