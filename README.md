@@ -6,11 +6,11 @@ Having researched a variety of computer and network devices that would be able t
  
 
 ## <h3>Intel NUC's
-  *  Intel NUC's (Next Unit of Computing) have been available for many years and come in different configurations. As they are released they identify a new generation in their product line (to compare, similiar to apple and iphones), I went for the 7th and 8th generation. Each one being capable of 32gb of RAM, an M.2 SSD Slot, available with multiple processors (i3, i5, i7) and a 2.5 SSD/HDD Bay.
-* Below you will find a picture and specifications of 3 NUC's I will be using to carry throughout my lab
+Intel NUC's (Next Unit of Computing) have been available for many years and come in different configurations. As they are released they identify a new generation in their product line (to compare, similiar to apple and iphones), I went for the 7th and 8th generation. Each one being capable of 32gb of RAM, an M.2 SSD Slot, available with multiple processors (i3, i5, i7) and a 2.5 SSD/HDD Bay.
 
+Below you will find a picture and specifications of 3 NUC's I will be using to carry throughout my lab
 
-   ![IMG_0285](https://user-images.githubusercontent.com/67407192/115975104-c6e9b280-a516-11eb-9f60-9742850b5acc.JPG)
+![IMG_0285](https://user-images.githubusercontent.com/67407192/115975104-c6e9b280-a516-11eb-9f60-9742850b5acc.JPG)
 
 
  * NUC7i5BNH
