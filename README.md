@@ -53,6 +53,7 @@ The excitement I had upon finding this little router is unreal! This little rout
  
 * GL-AR750S-Ext
   *  DualBand WIFI (2.4ghz 300Mbps & 5ghz 433Mbps)
+  *  Slightly larger than a credit card
   *  SD Card Support (up to 128gb)
   *  VPN Capabilities
   *  3 Gigabit Ports
