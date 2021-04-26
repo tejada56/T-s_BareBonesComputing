@@ -19,7 +19,6 @@ Having researched a variety of computer and network devices that would be able t
  * NUC8i7BEH
    *  Processor:  i7-8559U CPU @ 2.70GHz
    *  RAM: 64gb 
-   *   (Earlier stated capacity being 32gb. 8th Gen NUC's suprisingly support 64gb. Reading multiple articles online, I was happy to test and confirm this as true!)
    *  Storage:  500gb M2 SSD & 500 SSD Sata
   
  * NUC7i7DNHE
@@ -27,5 +26,6 @@ Having researched a variety of computer and network devices that would be able t
    *  RAM: 32gb
    *  Storage:  500gb M2 SSD & 500 SSD Sata
 
+# (Earlier I stated the NUCS being capable of 32gb RAM. 8th Gen NUC's suprisingly support 64gb. Reading multiple articles online, I was happy to test and confirm this was true!)
 
   
