@@ -28,6 +28,6 @@ Having researched a variety of computer and network devices that would be able t
    *  Storage:  500gb M2 SSD & 500 SSD Sata
 
   *  <h5> Reading multiple articles online, I found come claiming the 8th generation NUC's actually support 64gb of RAM instead of the advertised 32gb. I decided to test this out and astoundigly found this to be true. RAM being the most utilized resource in most of the computing world, next to storage and lastly CPU. I was happy to find this out. Below is a list of the articles I came upon through google.
-    *   https://www.virtuallyghetto.com/2019/03/64gb-memory-on-the-intel-nucs.html
-    *   https://kacangisnuts.com/2019/04/yes-intel-nuc-8i5beh-accepts-64-gb-ram/
-    *   https://cloerner.github.io/posts/64gb_intel_nuc7i3/
+    *  https://www.virtuallyghetto.com/2019/03/64gb-memory-on-the-intel-nucs.html
+    *  https://kacangisnuts.com/2019/04/yes-intel-nuc-8i5beh-accepts-64-gb-ram/
+    *  https://cloerner.github.io/posts/64gb_intel_nuc7i3/
