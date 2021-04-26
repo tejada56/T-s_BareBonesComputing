@@ -2,7 +2,7 @@
 Welcome to my GitHub! Here I  showcase personal projects where I do proof of concept and apply new technologies I may be curious about
 # <h2>Hardware
 Going into the planning for this lab I wanted to find devices that were relatively small, versatile, energy efficient and didnt require a lot of space.
-Having researched a variety of computer and network devices that would be able to handle a lab of this size I had in mind, I decided on using Intel BareBones NUC's, a Netgear managed switch, GLI.NET router and a Zyxel firewall.
+Having researched a variety of computer and network devices that would be able to handle a lab of the size I had in mind, I decided on using Intel BareBones NUC's, a Netgear managed switch, GLI.NET router and a Zyxel firewall. In the instance I need to physically move my lab this will be a lot easier to do when everything can fit in a small box. Respectively of course!
  
 
 ## <h3>Intel NUC's
