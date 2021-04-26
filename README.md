@@ -1,7 +1,7 @@
-#<h1>T-s_BareBonesComputing<h1>
-	Welcome to my GitHub!
+<h1>T-s_BareBonesComputing<h1>
+Welcome to my GitHub!
 Here I will showcase personal projects where I do proof of concept and apply new technologies I may be curious about
-##<h2> Virtualization Lab
+<h2> Virtualization Lab<h2>
 	Going into the planning for this lab I wanted to find devices that were relatively small, versatile, energy efficient and didnt require a lot of space.
 	Having researched a variety of computer and network devices that would be able to handle a lab of this size I used 3 Intel NUC's a Netgear managed switch, GLI.NET router and a Zyxel firewall.
 		
