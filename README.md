@@ -5,8 +5,7 @@ Going into the planning for this lab I wanted to find devices that were relative
 Having researched a variety of computer and network devices that would be able to handle a lab of this size I had in mind, I decided on using Intel BareBones NUC's, a Netgear managed switch, GLI.NET router and a Zyxel firewall.
 ## <h3>Hardware
 * Intel NUC's
-  *  The NUC's having many generations over the last few years, I went for the 7th and 8th generation. Each one being capable of 32gb of RAM, an M.2 SSD Slot, available with multiple processors (i3, i5, i7) and a 2.5 SSD/HDD Bay.
-    *   sdf
+  *  The NUC's having many generations and configurations over the last few years, I went for the 7th and 8th generation. Each one being capable of 32gb of RAM, an M.2 SSD Slot, available with multiple processors (i3, i5, i7) and a 2.5 SSD/HDD Bay.
   
 ![IMG_0285](https://user-images.githubusercontent.com/67407192/115975104-c6e9b280-a516-11eb-9f60-9742850b5acc.JPG)
 
