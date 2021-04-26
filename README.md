@@ -44,7 +44,7 @@ Having researched a variety of computer and network devices that would be able t
 
 ## <h3>The Holy Grail of Routers!
  
- * GL-AR750S-Ext
+* GL-AR750S-Ext
   *  The excitement I had upon finding this little router is unexpressable! I will only be covering the greater features of this device in relation to the lab and my personal use of it
   *  This great little router is the Perfect tavel size and I've actually used it on many trips and to support my home network.
   *   Whether your looking for a wireless access point to connect to your modem, extend your current wireless signal or to establish a WWAN (Wireless Wide Area Network) like I do in my lab. 
