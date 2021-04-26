@@ -37,6 +37,7 @@ Having researched a variety of computer and network devices that would be able t
  * GS108PEv3
   *  Searching for a fully managed Layer 3 switch, I couldnt find one that kept that small factor size and low cost so I settled on this small Layer 2 switch
   *  The managed switch' dimensions are 10.79 x 9.29 x 2.2 and has 8 ports with 4 POE and many basic functions like port mirroring, VLAN tagging, port management and Quality of Service
+  *  Pictured below is a picture of the switch stacked on top of my firewall
   
 ![IMG_0294](https://user-images.githubusercontent.com/67407192/116057101-4ff60c00-a633-11eb-88e0-dbe94f065865.JPG)
 
