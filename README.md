@@ -46,7 +46,7 @@ Having researched a variety of computer and network devices that would be able t
  * GL-AR750S-Ext
   *  The excitement I had upon finding this little router is unexpressable! I will only be covering the greater features of this device in relation to the lab and my personal use of it
   *  This great little router is the Perfect tavel size and I've actually used it on many trips and to support my home network. Whether your looking for a wireless access point to connect to your modem, extend your current wireless signal or to establish a WWAN (Wireless Wide Area Network) like I do in my lab. This device does it all!
-![IMG_0295](https://user-images.githubusercontent.com/67407192/116059290-8765b800-a635-11eb-9407-c071b23b815f.JPG)
-![IMG_0296](https://user-images.githubusercontent.com/67407192/116059292-87fe4e80-a635-11eb-86a4-dd598ccf368c.JPG)
+
+![IMG_0295](https://user-images.githubusercontent.com/67407192/116059290-8765b800-a635-11eb-9407-c071b23b815f.JPG) ![IMG_0296](https://user-images.githubusercontent.com/67407192/116059292-87fe4e80-a635-11eb-86a4-dd598ccf368c.JPG)
 ![IMG_0297](https://user-images.githubusercontent.com/67407192/116059294-8896e500-a635-11eb-904b-97dc6741f0d5.JPG)
 
