@@ -49,9 +49,8 @@ Pictured below is the switch stacked on top of a Firewall
 ![IMG_0294](https://user-images.githubusercontent.com/67407192/116057101-4ff60c00-a633-11eb-88e0-dbe94f065865.JPG)
 
 ## <h3>The Holy Grail of Routers!
- 
+ The excitement I had upon finding this little router is unreal! This great little router is the Perfect tavel size and I've actually used it on many trips and to support my home network. Whether your looking for a wireless access point to connect to your modem, extend your current wireless signal or to establish a WWAN (Wireless Wide Area Network) like I do in my lab. This device does it all! I will only be covering the greater features of this device in relation to the lab and my personal use of it but I highly encourage you to check it out on their site. The amount of features and what it is capable of is great for the size and cost.
 * GL-AR750S-Ext
-The excitement I had upon finding this little router is unreal! This great little router is the Perfect tavel size and I've actually used it on many trips and to support my home network. Whether your looking for a wireless access point to connect to your modem, extend your current wireless signal or to establish a WWAN (Wireless Wide Area Network) like I do in my lab. This device does it all! I will only be covering the greater features of this device in relation to the lab and my personal use of it but I highly encourage you to check it out on their site. The amount of features and what it is capable of is great for the size and cost.
   *  asd
   *   asd
   *  asdf
