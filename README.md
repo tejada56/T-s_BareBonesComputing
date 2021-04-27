@@ -64,9 +64,9 @@ The excitement I had upon finding this little router is unreal! This router is t
 
 ## <h3>The Zyxel! Firewall
 * USG20-VPN
- *  4 Ethernet & 1 SFP Port
- *  VPN
- *  DMZ  
+  *  4 Ethernet & 1 SFP Port
+  *  VPN
+  *  DMZ  
 
 
 Yes this is the same picture you saw earlier in the post, it's ok
