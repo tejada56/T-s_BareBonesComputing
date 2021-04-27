@@ -73,6 +73,7 @@ Searching for a firewall my main goal was finding a physical system I could phys
 ![1616192852684](https://user-images.githubusercontent.com/67407192/116201819-c73ca600-a6ee-11eb-9972-493d9768f413.jpg)
 
 ##<h2> What does all this eqate to?
+ Well....this. 
 
 
 ![IMG_0299](https://user-images.githubusercontent.com/67407192/116202637-ac1e6600-a6ef-11eb-8637-613e69afe153.JPG) ![IMG_0300](https://user-images.githubusercontent.com/67407192/116202656-afb1ed00-a6ef-11eb-9a25-996ed03e605e.JPG)
