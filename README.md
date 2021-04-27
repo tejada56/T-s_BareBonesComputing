@@ -72,7 +72,7 @@ Searching for a firewall my main goal was finding a physical system I could phys
   *  DMZ  
 ![1616192852684](https://user-images.githubusercontent.com/67407192/116201819-c73ca600-a6ee-11eb-9972-493d9768f413.jpg)
 
-##<h2> What does all this eqate to?
+# <h2>What does all this mean?
  Well....this. 
 
 
