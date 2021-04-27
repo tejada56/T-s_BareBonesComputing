@@ -75,6 +75,8 @@ Searching for a firewall my main goal was finding a physical system I could phys
 # <h2>What does all this mean?
  Well....this. 20 Logical CPU's, 128gb of RAM and 3TB of storage. That can all fit into a backpack.... If you want needed to that is.
 
-How much can you do with this you may ask? well with 30 virtual servers at 4gb of RAM and 50gb of Storage per you'll be using over 90% of your RAM and only half of the availble storage. For the most part there won't be many cases you will want to deploy 30 VM's at 4gb of RAM each but loosely changing these numbers it is easily apparent you have lot's of room to play with.
+How much can you do with this you may ask? well with 30 virtual servers at 4gb of RAM and 50gb of Storage per you'll be using over 90% of your RAM and only half of the availble storage. For the most part there won't be many cases you will want to deploy 30 VM's at 4gb of RAM each but loosely changing these numbers it is easily apparent you have lot's of room to play with. 
+
+The extra USB drives are extra storage I gathered to add to the lab and more importantly to install my Hypervisor. Stay tuned for that!
 
 ![IMG_0299](https://user-images.githubusercontent.com/67407192/116202637-ac1e6600-a6ef-11eb-8637-613e69afe153.JPG) ![IMG_0300](https://user-images.githubusercontent.com/67407192/116202656-afb1ed00-a6ef-11eb-9a25-996ed03e605e.JPG)
