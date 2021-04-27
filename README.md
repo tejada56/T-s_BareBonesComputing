@@ -68,8 +68,8 @@ The excitement I had upon finding this little router is unreal! This router is t
   *  VPN
   *  DMZ  
 
-
 Yes this is the same picture you saw earlier in the post, it's ok
+
 ![IMG_0294](https://user-images.githubusercontent.com/67407192/116069778-a453b880-a640-11eb-8e02-56c4471c70db.JPG)
 
 
