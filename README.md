@@ -70,8 +70,6 @@ Searching for a firewall my main goal was finding a physical system I could phys
   *  4 Ethernet & 1 SFP Port
   *  VPN
   *  DMZ  
-
-Yes this is the same picture you saw earlier in the post, it's ok
 ![1616192852684](https://user-images.githubusercontent.com/67407192/116201819-c73ca600-a6ee-11eb-9972-493d9768f413.jpg)
 
 
