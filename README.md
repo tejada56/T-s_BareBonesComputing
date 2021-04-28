@@ -85,4 +85,4 @@ The extra USB drives are extra storage I gathered to add to the lab and more imp
 
 
 # <h1> Virtualization!
-
+Now that the physical infrastructure is installed, next is choosing a Hypervisor to virtualize our little power packed NUC's. I decided to go with VMWare,
