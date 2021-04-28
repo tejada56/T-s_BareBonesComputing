@@ -75,9 +75,9 @@ Searching for a firewall my main goal was finding a physical system I could phys
 ## <h2>What does all this mean?
  Well....this. 20 Logical CPU's, 128gb of RAM and 3TB of storage. That can all fit into a backpack.... If you want needed to that is.
 
-How much can you do with this you may ask? well with 30 virtual servers at 4gb of RAM and 50gb of Storage per you'll be using over 90% of your RAM and only half of the availble storage. For the most part there won't be many cases you will want to deploy 30 VM's at 4gb of RAM each but loosely changing these numbers it is easily apparent you have lot's of room to play with. 
+How much can you do with this you may ask? well with 30 virtual servers at 4gb of RAM and 50gb of Storage per you'll be using over 90% of your RAM and only half of the availble storage. For the most part there won't be many cases you will want to deploy 30 VM's at 4gb of RAM each but as an example to give you an idea of how much romm you have to play with. 
 
-The extra USB drives are extra storage I gathered to add to the lab and more importantly to install my Hypervisor. Stay tuned for that!
+P.S Take notice of the USB drives connected to the NUC's. I will talk about these in the next section!
 
 ![IMG_0299](https://user-images.githubusercontent.com/67407192/116202637-ac1e6600-a6ef-11eb-8637-613e69afe153.JPG) ![IMG_0300](https://user-images.githubusercontent.com/67407192/116202656-afb1ed00-a6ef-11eb-9a25-996ed03e605e.JPG)
 
@@ -86,4 +86,22 @@ The extra USB drives are extra storage I gathered to add to the lab and more imp
 
 
 # <h1> Virtualization!
-Now that the physical infrastructure is installed, next is choosing a Hypervisor to virtualize our little power packed NUC's. I decided to go with VMWare,
+Now that the physical infrastructure is installed, next is choosing a Hypervisor to virtualize our little power packed NUC's. I decided to go with VMWare. No particular reason, just my preference. I also plan to create a Hyper-V environment nested within the VMWare virtualization. This won't be until later though.
+  
+  
+In an effort to minimize the amount of internal storage used by the hypervisor kernel, I gathered some USB drives and attached them to the 3 NUCeteers to install the VMWare ESXi hypervisor. Doing this you won't lose any storage space, for example installing ESXi on one of the 500 SSD's would give ownership of that drive to the kernel even though the installation only requires aproximately 20gb. Thus losing 480gb of SSD storage from our build.
+
+In regards to the USB drives, I only have 3 NUC's and that equals to 3 ESXi installations and 3 USB Drives. The extra ones are going to be used as datastores. *Just adding more storage where I can*
+
+I will list what is required to be done in order to prepare and add these USB drives to your ESXi instances as well as link any resources that helped me in this process.
+
+** Please be cautious if you decide to do this though. Depending on what type of USB drive you use and the size of it, remember these will be constantly used due to the I/O (Input/Output) of the VM's. Because of that they will most likely operate at higher tempatures than they normally would if you were just using them casually for file transfers. I say this from experience, having a smaller 128gb I dedicated it to one of my directory server's for it's host operating system and the USB itself failed from overheating.**
+
+
+
+VCenter Deployed! *dun dun dun*
+Below is VCenter successfully deployed within the NUC's. I will document the steps I took to get this far later. In one of the screenshots you can get a glimpse of the services I have established so far. I plan integrating these with a cloud environment and mimic what would be an *On-Premise* environment to integrate with a cloud service.
+
+![VCSA Login](https://user-images.githubusercontent.com/67407192/116361684-18639d00-a7b6-11eb-83ad-2cd831f27604.PNG)
+![VCSA](https://user-images.githubusercontent.com/67407192/116361727-21ed0500-a7b6-11eb-98e2-af232ac55d0e.PNG)
+
