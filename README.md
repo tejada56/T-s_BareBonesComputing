@@ -1,5 +1,3 @@
-![Services Glimpse](https://user-images.githubusercontent.com/67407192/116363441-fc60fb00-a7b7-11eb-9974-96bec445f2a7.PNG)
-![Services Glimpse](https://user-images.githubusercontent.com/67407192/116363465-02ef7280-a7b8-11eb-908e-3bbf749d0528.PNG)
 # <h1>T-s_BareBonesComputing
 Welcome to my GitHub! Here I  showcase personal projects where I do proof of concept and apply new technologies I may be curious about
 # <h2>Hardware
@@ -106,4 +104,4 @@ Below is VCenter successfully deployed within the NUC's. I will document the ste
 
 ![VCSA Login](https://user-images.githubusercontent.com/67407192/116361684-18639d00-a7b6-11eb-83ad-2cd831f27604.PNG)
 ![VCSA](https://user-images.githubusercontent.com/67407192/116361727-21ed0500-a7b6-11eb-98e2-af232ac55d0e.PNG)
-
+![Services Glimpse](https://user-images.githubusercontent.com/67407192/116363465-02ef7280-a7b8-11eb-908e-3bbf749d0528.PNG)
