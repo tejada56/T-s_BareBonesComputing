@@ -99,7 +99,7 @@ I will list what is required to be done in order to prepare and add these USB dr
 
 
 
-VCenter Deployed! *dun dun dun*
+## VCenter Deployed! *dun dun dun*
 Below is VCenter successfully deployed within the NUC's. I will document the steps I took to get this far later. In one of the screenshots you can get a glimpse of the services I have established so far. I plan integrating these with a cloud environment and mimic what would be an *On-Premise* environment to integrate with a cloud service.
 
 ![VCSA Login](https://user-images.githubusercontent.com/67407192/116361684-18639d00-a7b6-11eb-83ad-2cd831f27604.PNG)
