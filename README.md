@@ -32,9 +32,10 @@ Reading multiple articles online, I found come claiming the 8th generation NUC's
    *  https://cloerner.github.io/posts/64gb_intel_nuc7i3/
 
 ## <h3>Managed Switch
+  Searching for a fully managed Layer 3 switch, I couldnt find one that kept that small factor size and low cost so I settled on this small Layer 2 switch
+  Having planned to use less than 8 physically attached devices this switch had a sufficient amount of ports for what I was looking to do!
+  
 * GS108PEv3
-  *  Searching for a fully managed Layer 3 switch, I couldnt find one that kept that small factor size and low cost so I settled on this small Layer 2 switch
-  *  Having planned to use less than 8 physically attached devices this switch had a sufficient amount of ports for what I was looking to do!
   *  8 ports with 4 POE capable of 10m/100m/1000m
   *  Dimensions: 10.79x9.29x2.2
   *  Quality of Service
