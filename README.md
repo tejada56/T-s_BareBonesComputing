@@ -13,7 +13,7 @@ Below is a picture and specifications of the 3 NUC's I will be using throughout 
 
  * NUC7i5BNH
    *  Processor:  i5-7260U CPU @ 2.20GHz
-   *  RAM: 32gb
+   *  RAM: 32gb 
    *  Storage: 500gb M2 SSD & 1TB HDD
   
  * NUC8i7BEH
