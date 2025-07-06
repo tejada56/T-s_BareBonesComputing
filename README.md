@@ -1,8 +1,9 @@
 # <h1>T-s_BareBonesComputing
-Welcome to my GitHub! Here I  showcase personal projects where I do proof of concept and apply new technologies I may be curious about
+Welcome to my GitHub! Here I  showcase personal projects where I do proof of concept and apply new technologies I may be curious about. Please be informed this GitHub is for informational and guidance purposes only if you would need asssitance please reach out or contact a security professional.
+
 # <h2>Hardware
-Planning for this lab I wanted to find devices that were relatively small, versatile, energy efficient and didnt require a lot of space.
-Having researched a variety of computer and network devices that would be able to handle a lab of the size I had in mind, I decided on using Intel BareBones NUC's, a Netgear managed switch, GLI.NET router and a Zyxel firewall. 
+Planning for this lab I wanted to find devices that were relatively small, versatile, energy efficient and didnt require a lot of space and cost effective.
+Having researched a variety of computer and network devices that would be able to handle a lab of the size I had in mind, I decided on using Intel BareBones NUC's, a Netgear managed switch, GLI.NET router and a Zyxel firewall.
 
 ## <h3>Intel NUC's
 Intel NUC's (Next Unit of Computing) have been available for many years and come in different configurations. As they are released they identify a new generation in their product line (to compare, similiar to apple and iphones), I went for the 7th and 8th generation. Each one being capable of 32gb of RAM, an M.2 SSD Slot, available with multiple processors (i3, i5, i7) and a 2.5 SSD/HDD Bay.
@@ -26,7 +27,7 @@ Below is a picture and specifications of the 3 NUC's I will be using throughout 
    *  RAM: 32gb
    *  Storage:  500gb M2 SSD & 500 SSD Sata
 
-Reading multiple articles online, I found come claiming the 8th generation NUC's actually support 64gb of RAM instead of the advertised 32gb. I decided to test this out and astoundigly found this to be true. RAM being the most utilized resource in most of the computing world, next to storage and lastly CPU. I was happy to find this out. Below is a list of the articles I came upon through google.
+Reading multiple articles online, I found some claiming the 8th generation NUC's actually support 64gb of RAM instead of the advertised 32gb. I decided to test this out and astoundigly found this to be true. RAM being the most utilized resource in most of the computing world, next to storage and lastly CPU. I was happy to find this out. Below is a list of the articles I came upon through google.
    *  https://www.virtuallyghetto.com/2019/03/64gb-memory-on-the-intel-nucs.html
    *  https://kacangisnuts.com/2019/04/yes-intel-nuc-8i5beh-accepts-64-gb-ram/
    *  https://cloerner.github.io/posts/64gb_intel_nuc7i3/
@@ -97,7 +98,22 @@ I will list what is required to be done in order to prepare and add these USB dr
 
 ** Please be cautious if you decide to do this though. Depending on what type of USB drive you use and the size of it, remember these will be constantly used due to the I/O (Input/Output) of the VM's. Because of that they will most likely operate at higher tempatures than they normally would if you were just using them casually for file transfers. I say this from experience, having a smaller 128gb I dedicated it to one of my directory server's for it's host operating system and the USB itself failed from overheating.**
 
+## VSAN Datastore
+VSAN is a Virtual Stoage Area Network that combines attached storage devices for a total amount of storage. This essesentially creates a storage pool thats readily available for VCenter and VMWare cluster. You can create the VSAN Datastore before deploying the VCenter Appliance through CLI or through the VCenter UI after adding all the host.
 
+# To create the VSAN Datastore through CLI
+SSH to the ESXI host and run the following commands on one of the hosts:
+ESXCLI vsan cluster new
+
+To add the additional nodes to the VSAN run the following command on all nodes except the one hosting the IP:
+ESXCLI vsan cluster unicastagent add -a </IP Address> -u </Node UUID> -c </Cluster UUID> -t node
+
+To get the ESXI node UUID run the following:
+ESXCLI vsan cluster get
+
+run the following command to get a list of storage devices:
+
+add the storage devices to the vsan with the following per host:
 
 ## VCenter Deployed! *dun dun dun*
 Below is VCenter successfully deployed within the NUC's. I will document the steps I took to get this far later. In one of the screenshots you can get a glimpse of the services I have established so far. I plan integrating these with a cloud environment and mimic what would be an *On-Premise* migration with a Disaster Recovery Plan.
