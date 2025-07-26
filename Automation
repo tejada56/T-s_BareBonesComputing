@@ -1,5 +1,5 @@
-<h1>Automation/SOAR in IT</p>
-<h2>Automation</p>
+<h1>Automation/SOAR in IT</h1>
+<h2>Automation</h2>
 <p>Automation in IT is setting established/reactive processes/actions based on events occurring on a system.</p>
 <p>An example would be automating repetitive administrative tasks that are time and resource consuming such as onboarding, configurations, maintenance, etc.</p>
 <p>This can be done through either a graphical user interface (GUI) or command line interface (CLI) script.</p>
