@@ -20,7 +20,7 @@
 <ul>
   <li>Blumira</li>
   <li>Data Dog</li>
-  <li>exabeam</li>
+  <li>Exabeam</li>
   <li>Huntress</li>
   <li>Immuta</li>
   <li>LogRythm</li>
